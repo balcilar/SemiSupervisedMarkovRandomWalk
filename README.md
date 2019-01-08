@@ -1,6 +1,6 @@
 # Semi Supervised Classification with Markov Random Walks
 
-
+This repository consist of the Pythn implementation of following research paper [1]. Two different test cases were also provided to test the method and expain how to you it in your specific tasks.
 
 
 ## Reference
