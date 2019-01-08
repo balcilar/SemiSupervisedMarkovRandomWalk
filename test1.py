@@ -6,7 +6,7 @@ from sslMarkovRandomWalks import sslMarkovRandomWalks
 np.random.seed(seed=1234)
 
 # read data , inputs are in X, labels are in Y
-f=open('../data/voting.data')
+f=open('voting.data')
 X=[]
 Y=[]
 reader = csv.reader(f, delimiter=',')
